@@ -39,6 +39,3 @@ The WorldCup-DB project focuses on managing and querying a database related to t
 
 ## Future Enhancement
 - **API Development**: Creating an API to allow external applications to interact with the database, enabling broader usage of the data.
-
-## Conclusion
-The WorldCup-DB project serves as a comprehensive database management solution tailored to the needs of sports data analysts and enthusiasts. With its well-structured schema, efficient queries, and robust data integrity measures, it provides a strong foundation for any further development or analysis related to the FIFA World Cup.
